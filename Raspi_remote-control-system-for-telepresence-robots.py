@@ -26,10 +26,10 @@ logging.basicConfig(
 
 # Firebase configuration
 firebase_config = {
-    "apiKey": "AIzaSyDhvqWL2ictmZTlJnn-jRzRlJejAHMTsn0",
-    "authDomain": "skripsiijul-28eed.firebaseapp.com",
-    "databaseURL": "https://skripsiijul-28eed-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "storageBucket": "skripsiijul-28eed.appspot.com",
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "storageBucket": "",
 }
 
 class NeuralNetwork:
